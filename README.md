@@ -2,7 +2,9 @@
 
 [AllenNLP](https://github.com/allenai/allennlp)
 
-因此魔改一下allennlp，添加visdom的功能。
+因此魔改一下allennlp，添加visdom的功能。  
+
+注意，使用json文件配置的话就不能使用这个功能，因为我还是初学者，有些函数还并不了解。
 
 ---
 + 仅仅更改的是train文件。  
