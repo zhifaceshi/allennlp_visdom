@@ -1,4 +1,6 @@
-# 我使用visdom
+# 我想使用visdom功能实时监测
+
+[AllenNLP](https://github.com/allenai/allennlp)
 
 因此魔改一下allennlp，添加visdom的功能。
 
